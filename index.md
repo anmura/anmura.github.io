@@ -1,4 +1,5 @@
 <html>
+<meta charset = "utf - 8">
 <head>
 <title>Page Title</title>
 </head>
@@ -7,7 +8,7 @@
 <p>Matriklinumber: 193414</p>
 <hr>
 <h1>About character</h1>
-<p>Naruto  is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village. The story is in two parts, the first set in Naruto's pre-teen years, and the second in his teens. The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).</p>
+<p>Naruto (ナルト) is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village. The story is in two parts, the first set in Naruto's pre-teen years, and the second in his teens. The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).</p>
 <br>
 <img src="https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png">
 <br>
