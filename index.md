@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -6,18 +5,16 @@
 <body>
 <h1>NARUTO</h1>
 <p>Matriklinumber: 193414</p>
-</ol>
 <hr>
 <h1>About character</h1>
-<p>Naruto (гѓЉгѓ«гѓ€) is a Japanese manga series written and illustrated by Masashi Kishimoto.<br> It tells the story of Naruto Uzumaki, a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village. The story is in two parts, the first set in Naruto's pre-teen years, and the second in his teens. The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).</h1></p>
-
-</body>
-<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
-<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
-<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
-<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
-
+<p>Naruto  is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village. The story is in two parts, the first set in Naruto's pre-teen years, and the second in his teens. The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).</p>
+<br>
 <img src="https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png">
+<br>
+<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
+<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
+<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
+<img src="https://66.media.tumblr.com/avatar_826e9da23ef2_128.pnj">
 <li><a href="https://naruto.fandom.com/wiki/Naruto_Uzumaki">more about naruto</a></li>
 <li><a href="https://www.google.com">place for schearching information about Naruto</a></li>
 <li><a href="http://www.ttu.ee">the best link in the world</a></li>
@@ -27,15 +24,13 @@
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
 }
-
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
 }
-
 tr:nth-child(even) {
   background-color: #FF7F50;
 }
@@ -67,6 +62,5 @@ tr:nth-child(even) {
     <td>Director of Konoha Children Mental Health Clinic</td>
   </tr>
 </table>
-
 </body>
 </html>
